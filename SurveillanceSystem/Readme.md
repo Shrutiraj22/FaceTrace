@@ -34,6 +34,7 @@ SurveillanceSystem/
 ├── alert.py                # Alerting and logging utility
 ├── log.csv                 # Log of detected events
 └── authorized_faces/       # Folder containing known face images
+└── streamlit_app.py        # streamlit dashboard
 ```
 
 
@@ -75,11 +76,6 @@ python main.py
 * Integration with CCTV or external camera
 * Add GUI face authorization system
 
-
-
-## License
-
-This project is for educational/demo purposes. Modify and use as per your requirements.
 
 
 
